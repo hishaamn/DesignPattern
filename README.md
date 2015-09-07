@@ -1,4 +1,4 @@
-<img title="Build Status Images" src="https://travis-ci.org/hishaamn/Builder-Pattern.svg">
+https://travis-ci.org/hishaamn/DesignPattern.svg?branch=master
 
 # DesignPattern
 Getting started with design pattern
