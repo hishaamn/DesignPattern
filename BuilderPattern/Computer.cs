@@ -24,7 +24,7 @@
 
         public override string ToString()
         {
-            return string.Format("Name: {0}\nScreen: {1}\nTouchScreen: {2}\nOperating System: {3}\nRAM: {4}", this.ComputerName, this.ScreenSize, this.Touch, this.Os, this.Memory)
+            return string.Format("Name: {0}\nScreen: {1}\nTouchScreen: {2}\nOperating System: {3}\nRAM: {4}", this.ComputerName, this.ScreenSize, this.Touch, this.Os, this.Memory);
         }
     }
 }
